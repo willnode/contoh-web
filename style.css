@@ -65,6 +65,7 @@ header a {
 .about img {
     height: 70vh;
     display: block;
+    object-fit: cover;
 }
 .content {
     display: flex;
